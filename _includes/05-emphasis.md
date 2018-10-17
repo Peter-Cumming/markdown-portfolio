@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_Some of my **better** traits_:
+
+**Open-minded**, __driven__, *motivated*, _loyal_, compassionate

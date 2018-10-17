@@ -1,2 +1,4 @@
 # Peter Cumming
-#### Yorkshire born
+## Yorkshire born
+### Nottingham educated
+#### London lived

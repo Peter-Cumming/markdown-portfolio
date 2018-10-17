@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of smug infant](https://guangchuangyu.github.io/blog_images/R/meme/Figs/meme.png)
